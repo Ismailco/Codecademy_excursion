@@ -27,3 +27,16 @@ a {
 .video {
   margin: 10px auto;
 }
+
+.description-header {
+  font-size: 42px;
+  font-weight: 300;
+  color: #fff;
+  margin: 20px;
+}
+
+.description-text {
+  font-size: 21px;
+  color: #808080;
+  margin: 10px;
+}
