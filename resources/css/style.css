@@ -28,7 +28,8 @@ a {
   margin: 10px auto;
 }
 
-.description-header {
+.description-header,
+h2 {
   font-size: 42px;
   font-weight: 300;
   color: #fff;
@@ -42,7 +43,7 @@ a {
 }
 
 .camp-img {
-  width: 80%;
+  width: 60%;
   margin: 10px auto;
   display: block;
 }
@@ -50,4 +51,10 @@ a {
 .phone-img {
   width: 50px;
   margin: 10px;
+}
+
+.footer-text {
+  color: #808080;
+  text-align: right;
+  margin: 40px 15px 15px 15px;
 }
