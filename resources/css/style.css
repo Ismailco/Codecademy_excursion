@@ -40,3 +40,14 @@ a {
   color: #808080;
   margin: 10px;
 }
+
+.camp-img {
+  width: 80%;
+  margin: 10px auto;
+  display: block;
+}
+
+.phone-img {
+  width: 50px;
+  margin: 10px;
+}
