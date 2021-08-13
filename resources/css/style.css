@@ -5,18 +5,25 @@
 }
 
 body {
-  background-color: #011;
+  background-color: #000;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
 }
 
 a {
   color: aquamarine;
   font-size: 16px;
+  display: block;
+  margin: 10px;
 }
 
 .header-text {
   font-weight: normal;
   font-size: 50px;
   color: #fff;
-  text-align: center;
+  margin: 20px;
+}
+
+.video {
+  margin: 10px auto;
 }
